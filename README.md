@@ -19,10 +19,10 @@ Bingo needs to meet the conditions.
 3. Players must use a newly generated BINGO board per game.
 4. Each column letter can only have certain intervals of numbers. For example:
     Column B: Can only contain random numbers between 1-15.
-    Columb I: Can only contain random numbers between 16-30.
-    Columb N: Can only contain random numbers between 31-45.
-    Columb G: Can only contain random numbers between 46-60.
-    Columb O: Can only contain random numbers between 60-75.
+    Column I: Can only contain random numbers between 16-30.
+    Column N: Can only contain random numbers between 31-45.
+    Column G: Can only contain random numbers between 46-60.
+    Column O: Can only contain random numbers between 60-75.
 5. There can be no repeating numbers on a BINGO board.
 
 

@@ -23,7 +23,7 @@ Bingo needs to meet the conditions.
     Columb N: Can only contain random numbers between 31-45.
     Columb G: Can only contain random numbers between 46-60.
     Columb O: Can only contain random numbers between 60-75.
-5. There can be no repeating numbers on a BINGO board (this could be seen as unfair although if you did get a repeating value it would be entirely by chance.
+5. There can be no repeating numbers on a BINGO board.
 
 
 
